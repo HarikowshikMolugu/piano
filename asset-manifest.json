@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-piano/static/css/main.9fe41bbf.css",
+    "main.js": "/simple-piano/static/js/main.06d7b6fb.js",
+    "static/media/video1.mp4": "/simple-piano/static/media/video1.51cbffc80126d28e9a0d.mp4",
+    "static/media/a8.wav": "/simple-piano/static/media/a8.6a72ae666d2986b4771f.wav",
+    "static/media/a7.wav": "/simple-piano/static/media/a7.0053a411f2aeea781499.wav",
+    "static/media/a4.wav": "/simple-piano/static/media/a4.967413f5ea50b2bf51ac.wav",
+    "static/media/a6.wav": "/simple-piano/static/media/a6.e705463b6012d73f985e.wav",
+    "static/media/a3.wav": "/simple-piano/static/media/a3.d3dbac7640a1b4e7a2f5.wav",
+    "static/media/a2.wav": "/simple-piano/static/media/a2.e3865957db412107c00c.wav",
+    "static/media/a1.wav": "/simple-piano/static/media/a1.f6b73dce5cb147e75559.wav",
+    "static/media/a5.wav": "/simple-piano/static/media/a5.0335559daaf97830f22d.wav",
+    "index.html": "/simple-piano/index.html",
+    "main.9fe41bbf.css.map": "/simple-piano/static/css/main.9fe41bbf.css.map",
+    "main.06d7b6fb.js.map": "/simple-piano/static/js/main.06d7b6fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fe41bbf.css",
+    "static/js/main.06d7b6fb.js"
+  ]
+}
